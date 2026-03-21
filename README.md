@@ -4,27 +4,33 @@ Learning Linux for Cloud & DevOps.
 
 ## 🧪 Environment
 
-This project is built and tested in a real cloud environment:
+This project is built and tested in multiple environments:
 
 - AWS EC2 (Free Tier)
-- Ubuntu Server 22.04 LTS
-- SSH access via key pair authentication
-- Public cloud infrastructure (AWS)
+  - Ubuntu Server 22.04 LTS
+- Local HomeLab (Proxmox)
+  - Ubuntu VM
 
-## 🚀 Hands-on Setup
+## 🛠️ Tech Stack
 
-- Created and managed EC2 instance
-- Connected via SSH using private key (.pem)
-- Basic Linux administration in cloud environment
+- Linux (Ubuntu)
+- AWS EC2
+- Proxmox (HomeLab)
+- SSH
 
-## Topics
+## 📚 Topics
+
 - File system
 - Users & permissions
 - Networking
 - Package management
 
-## Labs
-Hands-on exercises and experiments.
+## 🧪 Labs
 
-## Goal
+Hands-on exercises and experiments performed on both:
+- cloud infrastructure (AWS)
+- local virtualization environment (Proxmox)
+
+## 🎯 Goal
+
 Become job-ready in DevOps 🚀

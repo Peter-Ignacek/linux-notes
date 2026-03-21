@@ -9,7 +9,7 @@ This project is built and tested in multiple environments:
 - AWS EC2 (Free Tier)
   - Ubuntu Server 22.04 LTS
 - Local HomeLab (Proxmox)
-  - Ubuntu VM
+  - Ubuntu LXC container
 
 ## 🛠️ Tech Stack
 

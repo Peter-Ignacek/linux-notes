@@ -1,6 +1,7 @@
 # Cheat Sheet 🔥
 
 sudo su-
+
 ls /     
 ls -la  
 cd ..  

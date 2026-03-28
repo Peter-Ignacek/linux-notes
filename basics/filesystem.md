@@ -20,5 +20,14 @@ cd - change directory
 
 ## Notes
 
+- / = top Directory = C:\of windows
+- /root = directory for root user = C:\Documents and Settings\Administrator   
+- /home = home directory for other users = c:\Documents and Settings\username
+- /usr = default softwaresare installed in = c:\program files
+- /bin = it contains commands used by all users
+(Binary files)
+- /sbin = contains commands used by only Super User (root)
+(Super user's binary files)
 - /etc = configs
 - /var/log = logs
+

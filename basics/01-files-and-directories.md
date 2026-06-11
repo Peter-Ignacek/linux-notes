@@ -21,7 +21,7 @@ cd - change directory
 ## Notes
 
 - / = top Directory = C:\of windows
-- /root = directory for root user = C:\Documents and Settings\Administrator   
+- /<ROOT_GUARDIAN> = directory for <ROOT_GUARDIAN> user = C:\Documents and Settings\Administrator   
 - /home = home directory for other users = c:\Documents and Settings\username
 - /usr = default softwaresare installed in = c:\program files
 - /bin = it contains commands used by all users
